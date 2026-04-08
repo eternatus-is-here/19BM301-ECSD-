@@ -49,8 +49,11 @@ Formula:
 # Result:
 The input and output characteristics of transistors in CE mode is drawn and the h parameters are calculated.
 
-Input Impedance         hie = 1.08 × 10³ Ω
-Output admittance       hoe = 0.146 mho
-Forward current gain    hfe = 478
-Reverse voltage gain    hre = 0.333
+1)Input Impedance         hie = 1.08 × 10³ Ω
+
+2)Output admittance       hoe = 0.146 mho
+
+3)Forward current gain    hfe = 478
+
+4)Reverse voltage gain    hre = 0.333
 
