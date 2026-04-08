@@ -18,7 +18,8 @@ Formula:
 # Tabular Column & Calculation:
 <img width="831" height="1280" alt="image" src="https://github.com/user-attachments/assets/22fdde00-0c89-40ba-a166-9bd5f97c2d44" />
 <img width="789" height="1280" alt="image" src="https://github.com/user-attachments/assets/57330d58-3141-4c3f-98ba-8e99fe6bfe79" />
-![WhatsApp Image 2026-04-08 at 6 18 45 PM](https://github.com/user-attachments/assets/f6e9bd77-ca64-473f-bfeb-c658f2d813bd)
+<img width="1600" height="874" alt="image" src="https://github.com/user-attachments/assets/2b924f3e-e95d-46b8-ad33-a7ca5de94454" />
+
 
 
 
