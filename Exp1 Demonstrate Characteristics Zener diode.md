@@ -31,16 +31,24 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
+<img width="1599" height="1353" alt="image" src="https://github.com/user-attachments/assets/991be04a-8526-4605-910a-53ef28523d4f" />
+
 
 
 # TABULAR COLUMN & CALCULATION:
+<img width="1019" height="1599" alt="image" src="https://github.com/user-attachments/assets/b17b6c4d-55cc-46bb-a1ad-54a76dadc6fb" />
+<img width="793" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f0b14b0-c244-4108-b9b3-9dfb0feea33a" />
+
 
 # MODEL GRAPH:
 <img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
 
 # GRAPH:
+<img width="1285" height="1600" alt="image" src="https://github.com/user-attachments/assets/c154cccf-f40d-42ce-8c61-dd6f85e2cbee" />
+
 
 # RESULT:
+Thus the Zener diode characteristics were studied
 
 
 
